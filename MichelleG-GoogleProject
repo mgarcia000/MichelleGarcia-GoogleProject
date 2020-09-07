@@ -1,0 +1,18 @@
+<img src="https://i2.cdn.turner.com/money/dam/assets/150831165000-google-10-1998-to-05-1999-780x439.png" style="width:950px;height:300px;">
+<body>
+<h2>Search the web using Google</h2>
+<input id="answer1">
+
+<br>
+<button onclick="">Google Search</button>
+</br>
+<br>
+<button onclick="">I'm feeling lucky</button>
+</br>
+</body>
+
+
+
+body {
+    text-align: center;
+}
