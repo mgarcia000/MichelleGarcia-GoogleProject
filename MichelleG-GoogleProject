@@ -4,15 +4,14 @@
 <input id="answer1">
 
 <br>
+  <h4></h4>
 <button onclick="">Google Search</button>
-</br>
-<br>
 <button onclick="">I'm feeling lucky</button>
 </br>
+<h4></h4>
+<a href="#" data-toggle="popover" data-trigger="hover" title="Google.com" data-content="">More Google!</a>
+</div>
+
+<h5>Copyright ©1999 Google Inc.</h5>
+
 </body>
-
-
-
-body {
-    text-align: center;
-}
